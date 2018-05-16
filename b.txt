@@ -1,2 +1,3 @@
 b.txt
 this a new line.
+this a new line too.
